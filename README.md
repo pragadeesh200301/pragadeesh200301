@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **C++ and NLP**
 - 👀 I’m interested in **Machine Learning, NLP, Biomedical Engineering, and Data Science**
-- 💞️ I’m looking to collaborate on projects using **transformers and encoder**
+- 🤝 I’m looking to collaborate on projects using **transformers and encoder**
 - 📫 How to reach me: [pragadeesh.murugan2003@gmail.com](mailto:pragadeesh.murugan2003@gmail.com)
 
 ## 🚀 Projects
@@ -40,7 +40,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pragadeesh-murugan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn icon"/></a>
+  <a href="https://www.linkedin.com/in/pragadeesh-murugan-88477214a/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn icon"/></a>
   <a href="mailto:pragadeesh.murugan2003@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail icon"/></a>
 </p>
 
