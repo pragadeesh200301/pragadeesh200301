@@ -35,6 +35,21 @@
 
 ---
 
+## 🛠 Technical Skills
+
+<div align="center">
+  <ul style="list-style: none; padding: 0; text-align: left; display: inline-block;">
+    <li style="font-size: 1.2em; margin: 10px 0;">💻 <b>Machine Learning</b></li>
+    <li style="font-size: 1.2em; margin: 10px 0;">📊 <b>Data Science</b></li>
+    <li style="font-size: 1.2em; margin: 10px 0;">🤖 <b>Deep Learning</b></li>
+    <li style="font-size: 1.2em; margin: 10px 0;">🗣️ <b>Natural Language Processing</b></li>
+    <li style="font-size: 1.2em; margin: 10px 0;">🌐 <b>Internet of Things</b></li>
+    <li style="font-size: 1.2em; margin: 10px 0;">🩺 <b>Biomedical Instrumentation</b></li>
+    <li style="font-size: 1.2em; margin: 10px 0;">🔧 <b>Analog Circuits</b></li>
+    <li style="font-size: 1.2em; margin: 10px 0;">📈 <b>Microsoft Excel</b></li>
+  </ul>
+</div>
+
 <h2 align="center">
   Connect with me
 </h2>
